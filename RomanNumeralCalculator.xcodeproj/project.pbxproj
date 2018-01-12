@@ -11,6 +11,7 @@
 		1F989EE8F5967246536D82D3 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0CC85E3DFBD26D5B41E1AAE /* SystemConfiguration.framework */; };
 		233DFA7C9B68A528A281D1F0 /* CoreMedia.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C58B207E394C1A859B2CEC0A /* CoreMedia.framework */; };
 		2B0E7E5FE55E749AD6453531 /* CoreTelephony.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1A197A6FFC421852069A123F /* CoreTelephony.framework */; };
+		3327A49DB8626AF7ECE5AE82 /* BuddyBuildSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FA98DF8C06E63448001E4B42 /* BuddyBuildSDK.framework */; };
 		37E3766B6B9D062C114A74D7 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EC448A2D5D7B5C1D22AE0C02 /* AVFoundation.framework */; };
 		835AEC8F1D80DD800046555C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 835AEC8E1D80DD800046555C /* AppDelegate.swift */; };
 		835AEC911D80DD800046555C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 835AEC901D80DD800046555C /* ViewController.swift */; };
@@ -92,6 +93,7 @@
 				37E3766B6B9D062C114A74D7 /* AVFoundation.framework in Frameworks */,
 				233DFA7C9B68A528A281D1F0 /* CoreMedia.framework in Frameworks */,
 				AA49946F3170D758EAA42E88 /* CoreVideo.framework in Frameworks */,
+				3327A49DB8626AF7ECE5AE82 /* BuddyBuildSDK.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
